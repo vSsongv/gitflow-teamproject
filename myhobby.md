@@ -6,12 +6,13 @@
 ## 특기
 런닝
 
-# console.log(김효식 자기소개)
-
+# 김효식 자기소개
+```js
 function hobby() {
-	## 취미
-	등산 /  미드, 유튜브 보기
-
-	## 특기
-	잘먹음
+	console.log('## 취미');
+	console.log('등산 /  미드, 유튜브 보기\n');
+	console.log('## 특기');
+	console.log('잘먹음');
 }
+hobby();
+```
