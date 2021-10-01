@@ -1,3 +1,5 @@
+print("tomorrow is saturday")
+
 # 김민성 자기소개
 
 ## 취미
